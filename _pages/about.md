@@ -85,9 +85,9 @@ I have also shown work in venues described in my materials as world-class, inclu
 
 My submission documents awards characterized by high selectivity:
 
-- **Gold Collection Award** (top honor) at the 3rd “Chinese Perspectives on the World” National Photography Exhibition (2015) for *Mobile Café*, selected as one of 11 from 12,000+ entries (0.09%).
+- **Gold Collection Award** (top honor) at the 3rd “Chinese Perspectives on the World” National Photography Exhibition (2015) for *Mobile Café*, selected as one of 11 from 12,000+ entries.
 - **“Redpoll Trophy” New Artist Nomination Award** (2019) at the 8th Dali International Photography Exhibition for *China’s Dog Market*.
-- **Photography Craft Book Newcomer Award** (2025) at the 25th Pingyao International Photography Festival for *A Brick*, selected as one of three winners from 207 entries (1.45%).
+- **Photography Craft Book Newcomer Award** (2025) at the 25th Pingyao International Photography Festival for *A Brick*, selected as one of three winners from 207 entries.
 
 ---
 
