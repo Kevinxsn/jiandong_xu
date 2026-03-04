@@ -30,7 +30,7 @@ latest_posts:
 
 ## Biography
 
-My name is **Jiandong Xu (徐建东)**. I was born in **May 1972** in **Ninghai, Zhejiang, China**. I am a Chinese photographer and a member of the **China Photographers Association**. I have published a personal photography album titled *The Old Teahouses of China*, and my work has been exhibited, awarded, and selected in photography exhibitions across China.
+My name is **Jiandong Xu (徐建东)**. I was born in **May 1972** in a small village of **Ningbo, Zhejiang, China**. I am a Chinese photographer and a member of the **China Photographers Association**. I have published a personal photography album titled *The Old Teahouses of China*, and my work has been exhibited, awarded, and selected in photography exhibitions across China.
 
 I currently serve as a **Council Member of the Zhejiang Photographers Association**, and as **Vice President of the Ningbo Photographers Association** and the **Yinzhou District Photographers Association**.
 
