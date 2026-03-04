@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 徐建东
 
 profile:
   align: right
@@ -30,14 +30,14 @@ latest_posts:
 
 ## Biography
 
-My name is **Jiandong Xu (徐建东)**. I was born in **May 1972** in **Ninghai, Zhejiang, China**. I am a Chinese photographer and a member of the **China Photographers Association**. I have published a personal photography album titled *China’s Old Teahouses*, and my work has been exhibited, awarded, and selected in photography exhibitions across China.
+My name is **Jiandong Xu (徐建东)**. I was born in **May 1972** in **Ninghai, Zhejiang, China**. I am a Chinese photographer and a member of the **China Photographers Association**. I have published a personal photography album titled *The Old Teahouses of China*, and my work has been exhibited, awarded, and selected in photography exhibitions across China.
 
 I currently serve as a **Council Member of the Zhejiang Photographers Association**, and as **Vice President of the Ningbo Photographers Association** and the **Yinzhou District Photographers Association**.
 
 ## Honors & Awards
 
 - **2012 & 2014** — Selected as one of *“Ningbo’s Top Ten Photographers”* (7th and 8th editions).
-- **Aug 2019** — My project *China’s Dog Cities* received the **Nomination Award for Best Emerging Photographer** at the **8th Dali International Photography Exhibition (Gold Wings Award)**.
-- **Oct 2020** — *China’s Dog Cities* received the **“Zhejiang Award”** at the **18th Zhejiang Photography Art Exhibition** (Photographer of the Year category).
+- **Aug 2019** — My project *China’s Dog Market* received the **Nomination Award for Best Emerging Photographer** at the **8th Dali International Photography Exhibition (Gold Wings Award)**.
+- **Oct 2020** — *China’s Dog Market* received the **“Zhejiang Award”** at the **18th Zhejiang Photography Art Exhibition** (Photographer of the Year category).
 - **Sep 2025** — During the **Ningbo International Photography Season**, I presented a **solo exhibition** featuring *A Brick* at the **Ningbo Art Center of the China Photographers Association**.
 - **Sep 2025** — *A Brick* received the **Newcomer Award** in the **Photographer of the Year** category at the **25th Pingyao International Photography Festival**.
