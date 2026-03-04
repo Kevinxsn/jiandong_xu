@@ -36,7 +36,11 @@ I currently serve as a Council Member of the Zhejiang Photographers Association,
 
 Honors & Awards
 	•	2012 & 2014 — Selected as one of “Ningbo’s Top Ten Photographers” (7th and 8th editions).
+
 	•	Aug 2019 — My project China’s Dog Cities received the Nomination Award for Best Emerging Photographer at the 8th Dali International Photography Exhibition (Gold Wings Award).
+
 	•	Oct 2020 — China’s Dog Cities received the “Zhejiang Award” at the 18th Zhejiang Photography Art Exhibition (Photographer of the Year category).
+
 	•	Sep 2025 — During the Ningbo International Photography Season, I presented a solo exhibition featuring A Brick at the Ningbo Art Center of the China Photographers Association.
+  
 	•	Sep 2025 — A Brick received the Newcomer Award in the Photographer of the Year category at the 25th Pingyao International Photography Festival.
