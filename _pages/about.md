@@ -49,12 +49,6 @@ In my materials, this project is also discussed as engaging the lived reality of
 - `assets/dog-market/hero.jpg`
 - `assets/dog-market/grid-01.jpg`
 
-### The Old Teahouse of China (2014)
-This monograph is used in my scholarly writing as a case study for documentary photography’s role in recording and protecting cultural heritage, especially in the context of vanishing life scenes.
-
-**Image placeholders**
-- `assets/teahouse/hero.jpg`
-- `assets/teahouse/grid-01.jpg`
 
 ### Floating Life (2022) & Floating Dirt (2022)
 These two bodies of work continue my long-term attention to ordinary life and social transformation, and they are cited in my materials as part of a coherent set of major monographs.
@@ -62,6 +56,13 @@ These two bodies of work continue my long-term attention to ordinary life and so
 **Image placeholders**
 - `assets/floating-life/hero.jpg`
 - `assets/floating-dirt/hero.jpg`
+
+### The Old Teahouse of China (2014)
+This monograph is used in my scholarly writing as a case study for documentary photography’s role in recording and protecting cultural heritage, especially in the context of vanishing life scenes.
+
+**Image placeholders**
+- `assets/teahouse/hero.jpg`
+- `assets/teahouse/grid-01.jpg`
 
 ---
 
