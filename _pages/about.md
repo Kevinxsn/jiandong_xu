@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 徐建东
+subtitle: 879499288@qq.com
 
 profile:
   align: right
@@ -40,10 +40,7 @@ I currently serve as a **Council Member of the Zhejiang Photographers Associatio
 *A Brick* is a major long-term project presented as a photobook and solo exhibition. In 2025, my solo exhibition featuring *A Brick* drew large public attention and was recognized with an award for the quality of the display.
 In my materials, this project is also discussed as engaging the lived reality of urbanization and everyday objects as carriers of collective memory.
 
-**Image placeholders**
-- `assets/a-brick/hero.jpg`
-- `assets/a-brick/grid-01.jpg`
-- `assets/a-brick/grid-02.jpg`
+![Hero image](assets/img/a_brick_first.png)
 
 ### China’s Dog Market (2020)
 *China’s Dog Market* is presented in my submission as a sustained visual investigation of social realities, and it has been selected and recognized by major photography platforms and festivals.
@@ -100,14 +97,14 @@ I also write about documentary photography, translating long-term fieldwork into
 
 My submission includes two scholarly articles:
 
-- **“The Value of Vanishing Life Scenes in Documentary Photography”** — published in *Architectural Heritage*, described in my materials as a UNESCO-authorized field publication.
-- **“Authentication of Documentary Photography under Digital Images”** — published in *Photography & Video*, described in my materials as a major professional periodical with established global circulation.
+- **“The Value of Vanishing Life Scenes in Documentary Photography”** — published in *Architectural Heritage*
+- **“Authentication of Documentary Photography under Digital Images”** — published in *Photography & Video*
 
 ---
 
 ## Books
 
-My documentary practice is anchored by five major monographs that form a connected body of work.
+My projects mentioned above have been consolidated into five major monographs that form a cohesive body of work.
 
 - **The Old Teahouse of China** (2014) 
 - **China’s Dog Market** (2020) 
