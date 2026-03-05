@@ -14,7 +14,7 @@ ninja.data = [{
           description: "Course materials, schedules, and resources for classes taught.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/jiandong_xu/teaching/";
+            window.location.href = "/jiandong_xu/DogMarket/";
           },
         },{id: "post-a-post-with-plotly-js",
         
