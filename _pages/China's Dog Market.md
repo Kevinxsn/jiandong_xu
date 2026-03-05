@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /DogMarket/
 title: China's Dog Market
 description: Course materials, schedules, and resources for classes taught.
 nav: True
 nav_order: 2
-calendar: true
+calendar: false
 ---
 
 <img src="assets/img/a_brick_first.png" alt="Hero image" width="500">
