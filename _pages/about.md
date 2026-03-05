@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: 879499288@qq.com
 
@@ -40,7 +40,7 @@ I currently serve as a **Council Member of the Zhejiang Photographers Associatio
 *A Brick* is a major long-term project presented as a photobook and solo exhibition. In 2025, my solo exhibition featuring *A Brick* drew large public attention and was recognized with an award for the quality of the display.
 In my materials, this project is also discussed as engaging the lived reality of urbanization and everyday objects as carriers of collective memory.
 
-<img src="assets/img/a_brick_first.png" alt="Hero image" width="500">
+<img src="../assets/img/a_brick_first.png" alt="Hero image" width="500">
 
 ### China’s Dog Market (2020)
 *China’s Dog Market* is presented in my submission as a sustained visual investigation of social realities, and it has been selected and recognized by major photography platforms and festivals.
