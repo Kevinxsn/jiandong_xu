@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/jiandong_xu/";
     },
-  },{id: "post-a-post-with-plotly-js",
+  },{id: "nav-china-39-s-dog-market",
+          title: "China&#39;s Dog Market",
+          description: "Course materials, schedules, and resources for classes taught.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/jiandong_xu/teaching/";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
