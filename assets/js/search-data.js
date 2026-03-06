@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/jiandong_xu/DogMarket/";
           },
+        },{id: "nav-a-brick",
+          title: "A Brick",
+          description: "Course materials, schedules, and resources for classes taught.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/jiandong_xu/A_Brick/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
