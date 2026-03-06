@@ -2,7 +2,7 @@
 layout: page
 permalink: /DogMarket/
 title: China's Dog Market
-description: Course materials, schedules, and resources for classes taught.
+description: China’s Dog Market is my fourth published book, exploring China’s dog market, its economy, and the social phenomena surrounding it.
 nav: True
 nav_order: 2
 calendar: false
@@ -66,4 +66,5 @@ This great dog photography project throws light on ourselves. Who we are, what w
 *Other accolades include the 2018 Royal Photographic Society President’s Commendation certificate and the 2009 Fenton Medal.*
 
 *Andy’s academic career includes having been Principal Lecturer and Head of the prestigious Department of Photography and Film at the UK University of Westminster.*
+
 
