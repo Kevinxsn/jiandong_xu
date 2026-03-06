@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/jiandong_xu/A_Brick/";
           },
+        },{id: "nav-徐建东",
+          title: "徐建东",
+          description: "徐建东的中文介绍",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/jiandong_xu/chinese/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
