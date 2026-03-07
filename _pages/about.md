@@ -36,19 +36,19 @@ I currently serve as a **Council Member of the Zhejiang Photographers Associatio
 
 ## Selected projects
 
-### A Brick (2025)
+### [A Brick (2025)](http://jiandongxu.com/A_Brick/)
 *A Brick* is a major long-term project presented as a photobook and solo exhibition. In 2025, my solo exhibition featuring *A Brick* drew large public attention and was recognized with an award for the quality of the display.
 In my materials, this project is also discussed as engaging the lived reality of urbanization and everyday objects as carriers of collective memory.
 
 <img src="assets/img/a_brick_first.png" alt="Hero image" width="500">
 
-### China’s Dog Market (2020)
+### [China’s Dog Market (2020)](http://jiandongxu.com/DogMarket/)
 *China’s Dog Market* is presented in my submission as a sustained visual investigation of social realities, and it has been selected and recognized by major photography platforms and festivals.
 
 <img src="assets/img/dog_market_page1.png" alt="Hero image" width="500">
 
 
-### Floating Life (2022) & Floating Dirt (2022)
+### [Floating Life (2022) & Floating Dirt (2022)](http://jiandongxu.com/floating/)
 These two bodies of work continue my long-term attention to ordinary life and social transformation, and they are cited in my materials as part of a coherent set of major monographs.
 
 <div style="display: flex; gap: 16px; align-items: flex-start;">
@@ -56,7 +56,7 @@ These two bodies of work continue my long-term attention to ordinary life and so
   <img src="assets/img/fs_page1.png" alt="Graph 2" width="500">
 </div>
 
-### The Old Teahouse of China (2014)
+### [The Old Teahouse of China (2014)](http://jiandongxu.com/teahouse/)
 This monograph is used in my scholarly writing as a case study for documentary photography’s role in recording and protecting cultural heritage, especially in the context of vanishing life scenes.
 
 <img src="assets/img/teahouse_page1.png" alt="Hero image" width="500">
