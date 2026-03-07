@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/floating/";
           },
+        },{id: "nav-the-old-teahouse-of-china",
+          title: "The Old Teahouse of China",
+          description: "China’s Dog Market is my fourth published book, exploring China’s dog market, its economy, and the social phenomena surrounding it.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teahouse/";
+          },
         },{id: "nav-徐建东",
           title: "徐建东",
           description: "徐建东的中文介绍",
