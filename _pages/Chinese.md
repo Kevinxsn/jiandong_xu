@@ -4,7 +4,7 @@ permalink: /chinese/
 title: 徐建东
 description: 徐建东的中文介绍
 nav: True
-nav_order: 5
+nav_order: 6
 calendar: false
 ---
 
