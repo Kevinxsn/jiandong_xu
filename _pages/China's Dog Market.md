@@ -69,3 +69,4 @@ This great dog photography project throws light on ourselves. Who we are, what w
 
 ---
 
+<img src="assets/img/dog_market_cover.jpg" alt="Hero image" width="500">

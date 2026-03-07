@@ -36,3 +36,5 @@ Some words may be slightly uncertain because of the image spacing, but this is t
 
 ---
 
+
+<img src="../assets/img/teahouse_cover.png" alt="Hero image" width="500">

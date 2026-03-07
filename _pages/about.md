@@ -48,21 +48,21 @@ In my materials, this project is also discussed as engaging the lived reality of
 ### [China’s Dog Market (2020)](http://jiandongxu.com/DogMarket/)
 *China’s Dog Market* is presented in my submission as a sustained visual investigation of social realities, and it has been selected and recognized by major photography platforms and festivals.
 
-<img src="assets/img/dog_market_page1.png" alt="Hero image" width="500">
+<img src="assets/img/dog_market_cover.jpg" alt="Hero image" width="500">
 
 
 ### [Floating Life (2022) & Floating Dirt (2022)](http://jiandongxu.com/floating/)
 These two bodies of work continue my long-term attention to ordinary life and social transformation, and they are cited in my materials as part of a coherent set of major monographs.
 
 <div style="display: flex; gap: 16px; align-items: flex-start;">
-  <img src="assets/img/fc_page1.png" alt="Graph 1" width="500">
-  <img src="assets/img/fs_page1.png" alt="Graph 2" width="500">
+  <img src="assets/img/fc_cover.jpg" alt="Graph 1" width="500">
+  <img src="assets/img/fs_cover.jpg" alt="Graph 2" width="500">
 </div>
 
 ### [The Old Teahouse of China (2014)](http://jiandongxu.com/teahouse/)
 This monograph is used in my scholarly writing as a case study for documentary photography’s role in recording and protecting cultural heritage, especially in the context of vanishing life scenes.
 
-<img src="assets/img/teahouse_page1.png" alt="Hero image" width="500">
+<img src="assets/img/teahouse_page1.png" alt="Hero image" width="400">
 
 ---
 
