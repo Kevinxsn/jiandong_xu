@@ -8,6 +8,8 @@ nav_order: 6
 calendar: false
 ---
 
+<img src="../assets/img/dog_market1.png" alt="Hero image" width="800">
+
 ## 个人简介
 
 徐建东，1972年5月出生于浙江省宁波市宁海县，中国摄影家协会会员。长期从事摄影创作，曾出版个人摄影画册《中国老茶馆》，多幅摄影作品在国内摄影展览中获奖和入选。

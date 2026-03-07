@@ -8,7 +8,7 @@ nav_order: 2
 calendar: false
 ---
 
-<img src="../assets/img/dog_market1.png" alt="Hero image" width="800">
+<img src="../assets/img/headshot2.png" alt="Hero image" width="800">
 
 
 ## Preface
