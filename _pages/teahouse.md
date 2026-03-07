@@ -35,4 +35,4 @@ In south and north,east and west,the photographer walks through the vast land,fo
 ---
 
 
-<img src="../assets/img/teahouse_cover.png" alt="Hero image" width="500">
+<img src="../assets/img/teahouse_cover.jpg" alt="Hero image" width="500">
