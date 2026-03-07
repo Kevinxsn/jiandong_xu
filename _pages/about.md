@@ -34,6 +34,9 @@ My name is **Jiandong Xu (徐建东)**. I was born in **May 1972** in a small vi
 
 I currently serve as a **Council Member of the Zhejiang Photographers Association**, and as **Vice President of the Ningbo Photographers Association** and the **Yinzhou District Photographers Association**.
 
+---
+
+
 ## Selected projects
 
 ### [A Brick (2025)](http://jiandongxu.com/A_Brick/)
