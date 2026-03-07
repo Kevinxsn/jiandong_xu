@@ -2,7 +2,7 @@
 layout: page
 permalink: /teahouse/
 title: The Old Teahouse of China
-description: China’s Dog Market is my fourth published book, exploring China’s dog market, its economy, and the social phenomena surrounding it.
+description: The Old Teahouse of China is my first published book. It documents traditional Chinese teahouses that are now rarely seen.
 nav: True
 nav_order: 5
 calendar: false
