@@ -68,3 +68,9 @@ This great dog photography project throws light on ourselves. Who we are, what w
 *Andy’s academic career includes having been Principal Lecturer and Head of the prestigious Department of Photography and Film at the UK University of Westminster.*
 
 
+
+## Complete Book
+
+Use the link below to download the complete book.
+
+[Download the complete book](https://drive.google.com/file/d/1awYJPOzc3nGgN7OBpbepqNZDPEnYsPGh/view?usp=share_link)
