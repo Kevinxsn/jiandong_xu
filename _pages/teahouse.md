@@ -2,7 +2,7 @@
 layout: page
 permalink: /teahouse/
 title: The Old Teahouse of China
-description: The Old Teahouse of China(中国老茶馆) is my first published book. It documents traditional Chinese teahouses that are now rarely seen.
+description: The Old Teahouse of China (中国老茶馆) is my first published book. It documents traditional Chinese teahouses that are now rarely seen.
 nav: True
 nav_order: 5
 calendar: false
@@ -31,8 +31,6 @@ Along with social development,times change,the memory of many simply amorous fee
 However,these old teahouses are fading,when the old men withdraw from the stage of life inevitably,how is the fate of these old teahouse? Will it be there still?
 
 In south and north,east and west,the photographer walks through the vast land,focuses on these old teahouses,old customers which greatly bear the historic vicissitudes…
-
-Some words may be slightly uncertain because of the image spacing, but this is the visible text as closely as possible.
 
 ---
 
