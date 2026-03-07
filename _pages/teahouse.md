@@ -34,6 +34,7 @@ In south and north,east and west,the photographer walks through the vast land,fo
 
 Some words may be slightly uncertain because of the image spacing, but this is the visible text as closely as possible.
 
+---
 
 ## Complete Book
 
