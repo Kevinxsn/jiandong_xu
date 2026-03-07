@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kevinxsn.github.io/jiandong_xu/sitemap.xml
+Sitemap: https://www.jiandongxu.com/sitemap.xml
