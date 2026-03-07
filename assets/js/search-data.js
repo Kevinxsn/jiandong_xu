@@ -18,14 +18,14 @@ ninja.data = [{
           },
         },{id: "nav-china-39-s-dog-market",
           title: "China&#39;s Dog Market",
-          description: "China’s Dog Market is my fourth published book, exploring China’s dog market, its economy, and the social phenomena surrounding it.",
+          description: "China’s Dog Market is my second published book, exploring China’s dog market, its economy, and the social phenomena surrounding it.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/DogMarket/";
           },
         },{id: "nav-floating-life",
           title: "Floating Life",
-          description: "Floating Life and Floating Dirt are my second and third books, documenting social phenomena that have been overlooked during China’s rapid economic development.",
+          description: "Floating Life and Floating Dirt are my third and fourth books, documenting social phenomena that have been overlooked during China’s rapid economic development.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/floating/";
