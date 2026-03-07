@@ -104,10 +104,10 @@ My submission includes two scholarly articles:
 
 My projects mentioned above have been consolidated into five major monographs that form a cohesive body of work.
 
-- **The Old Teahouse of China** (2014) 
-- **China’s Dog Market** (2020) 
-- **Floating Life** (2022)
-- **Floating Dirt** (2022)
-- **A Brick** (2025)
+- [**The Old Teahouse of China**](http://jiandongxu.com/teahouse/) (2014)
+- [**China’s Dog Market**](http://jiandongxu.com/DogMarket/) (2020)
+- [**Floating Life**](http://jiandongxu.com/floating/) (2022)
+- [**Floating Dirt**](http://jiandongxu.com/floating/) (2022)
+- [**A Brick**](http://jiandongxu.com/A_Brick/) (2025)
 
 ---
