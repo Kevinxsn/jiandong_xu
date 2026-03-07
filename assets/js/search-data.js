@@ -25,14 +25,14 @@ ninja.data = [{
           },
         },{id: "nav-floating-life",
           title: "Floating Life",
-          description: "China’s Dog Market is my fourth published book, exploring China’s dog market, its economy, and the social phenomena surrounding it.",
+          description: "Floating Life and Floating Dirt are my second and third books, documenting social phenomena that have been overlooked during China’s rapid economic development.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/floating/";
           },
         },{id: "nav-the-old-teahouse-of-china",
           title: "The Old Teahouse of China",
-          description: "China’s Dog Market is my fourth published book, exploring China’s dog market, its economy, and the social phenomena surrounding it.",
+          description: "The Old Teahouse of China is my first published book. It documents traditional Chinese teahouses that are now rarely seen.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teahouse/";
