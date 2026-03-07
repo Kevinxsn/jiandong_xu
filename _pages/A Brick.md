@@ -8,7 +8,7 @@ nav_order: 3
 calendar: false
 ---
 
-<img src="../assets/img/a_brick1.png" alt="Hero image" width="500">
+<img src="../assets/img/a_brick1.png" alt="Hero image" width="800">
 
 
 ## Preface

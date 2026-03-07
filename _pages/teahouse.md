@@ -8,7 +8,7 @@ nav_order: 5
 calendar: false
 ---
 
-<img src="../assets/img/teahouse_1.png" alt="Hero image" width="800">
+<img src="../assets/img/teahouse_1.png" alt="Hero image" width="900">
 
 
 ## Preface
