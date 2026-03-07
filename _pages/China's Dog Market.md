@@ -4,7 +4,7 @@ permalink: /DogMarket/
 title: China's Dog Market
 description: China’s Dog Market is my fourth published book, exploring China’s dog market, its economy, and the social phenomena surrounding it.
 nav: True
-nav_order: 2
+nav_order: 3
 calendar: false
 ---
 

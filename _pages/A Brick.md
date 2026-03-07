@@ -4,7 +4,7 @@ permalink: /A_Brick/
 title: A Brick
 description: A Brick is the fifth book I have published, reflecting on the process of urbanization.
 nav: True
-nav_order: 3
+nav_order: 2
 calendar: false
 ---
 
