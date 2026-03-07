@@ -2,7 +2,7 @@
 layout: page
 permalink: /A_Brick/
 title: A Brick
-description: A Brick is the fifth book I have published, reflecting on the process of urbanization.
+description: A Brick(一块砖) is the fifth book I have published, reflecting on the process of urbanization.
 nav: True
 nav_order: 2
 calendar: false

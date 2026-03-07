@@ -2,7 +2,7 @@
 layout: page
 permalink: /teahouse/
 title: The Old Teahouse of China
-description: The Old Teahouse of China is my first published book. It documents traditional Chinese teahouses that are now rarely seen.
+description: The Old Teahouse of China(中国老茶馆) is my first published book. It documents traditional Chinese teahouses that are now rarely seen.
 nav: True
 nav_order: 5
 calendar: false
