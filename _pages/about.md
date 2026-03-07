@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Commercial Plaza, Yinxiang Waitan</p>
-    <p>No. 521 Jinshan West Road, Zhonggongmiao Subdistrict, Yinzhou District</p>
+    <p>No. 521 Jinshan West Road, Yinzhou District</p>
     <p>Ningbo, Zhejiang, China 315000</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
