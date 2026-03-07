@@ -30,7 +30,7 @@ latest_posts:
 
 ## Biography
 
-My name is **Jiandong Xu (徐建东, 徐建東)**. I was born in **May 1972** in a small village of [**Ningbo, Zhejiang, China (宁波, 寧波)**](https://en.wikipedia.org/wiki/Ningbo). I am a Chinese photographer and a member of the **China Photographers Association**. I have published a personal photography album titled *The Old Teahouses of China*, and my work has been exhibited, awarded, and selected in photography exhibitions across China.
+My name is **Jiandong Xu (徐建东)**. I was born in **May 1972** in a small village of [**Ningbo(宁波), Zhejiang, China**](https://en.wikipedia.org/wiki/Ningbo). I am a Chinese photographer and a member of the **China Photographers Association**. I have published a personal photography album titled *The Old Teahouses of China*, and my work has been exhibited, awarded, and selected in photography exhibitions across China.
 
 I currently serve as a **Council Member of the Zhejiang Photographers Association**, and as **Vice President of the Ningbo Photographers Association** and the **Yinzhou District Photographers Association**.
 
@@ -45,24 +45,21 @@ In my materials, this project is also discussed as engaging the lived reality of
 ### China’s Dog Market (2020)
 *China’s Dog Market* is presented in my submission as a sustained visual investigation of social realities, and it has been selected and recognized by major photography platforms and festivals.
 
-**Image placeholders**
-- `assets/dog-market/hero.jpg`
-- `assets/dog-market/grid-01.jpg`
+<img src="assets/img/dog_market_page1.png" alt="Hero image" width="500">
 
 
 ### Floating Life (2022) & Floating Dirt (2022)
 These two bodies of work continue my long-term attention to ordinary life and social transformation, and they are cited in my materials as part of a coherent set of major monographs.
 
-**Image placeholders**
-- `assets/floating-life/hero.jpg`
-- `assets/floating-dirt/hero.jpg`
+<div style="display: flex; gap: 16px; align-items: flex-start;">
+  <img src="assets/img/fc_page1.png" alt="Graph 1" width="500">
+  <img src="assets/img/fs_page1.png" alt="Graph 2" width="500">
+</div>
 
 ### The Old Teahouse of China (2014)
 This monograph is used in my scholarly writing as a case study for documentary photography’s role in recording and protecting cultural heritage, especially in the context of vanishing life scenes.
 
-**Image placeholders**
-- `assets/teahouse/hero.jpg`
-- `assets/teahouse/grid-01.jpg`
+<img src="assets/img/teahouse_page1.png" alt="Hero image" width="500">
 
 ---
 
