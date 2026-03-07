@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-china-39-s-dog-market",
+  },{id: "nav-floating-life-amp-floating-dirt",
+          title: "Floating Life &amp; Floating Dirt",
+          description: "China’s Dog Market is my fourth published book, exploring China’s dog market, its economy, and the social phenomena surrounding it.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/floating/";
+          },
+        },{id: "nav-china-39-s-dog-market",
           title: "China&#39;s Dog Market",
           description: "China’s Dog Market is my fourth published book, exploring China’s dog market, its economy, and the social phenomena surrounding it.",
           section: "Navigation",
