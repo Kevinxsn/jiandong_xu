@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-china-39-s-dog-market",
-          title: "China&#39;s Dog Market",
-          description: "China’s Dog Market is my fourth published book, exploring China’s dog market, its economy, and the social phenomena surrounding it.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/DogMarket/";
-          },
-        },{id: "nav-a-brick",
+  },{id: "nav-a-brick",
           title: "A Brick",
           description: "A Brick is the fifth book I have published, reflecting on the process of urbanization.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/A_Brick/";
+          },
+        },{id: "nav-china-39-s-dog-market",
+          title: "China&#39;s Dog Market",
+          description: "China’s Dog Market is my fourth published book, exploring China’s dog market, its economy, and the social phenomena surrounding it.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/DogMarket/";
           },
         },{id: "nav-floating-life",
           title: "Floating Life",
