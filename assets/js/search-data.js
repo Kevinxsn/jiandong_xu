@@ -11,28 +11,28 @@ ninja.data = [{
     },
   },{id: "nav-a-brick",
           title: "A Brick",
-          description: "A Brick is the fifth book I have published, reflecting on the process of urbanization.",
+          description: "A Brick(一块砖) is the fifth book I have published, reflecting on the process of urbanization.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/A_Brick/";
           },
         },{id: "nav-china-39-s-dog-market",
           title: "China&#39;s Dog Market",
-          description: "China’s Dog Market is my second published book, exploring China’s dog market, its economy, and the social phenomena surrounding it.",
+          description: "China’s Dog Market(中国狗市) is my second published book, exploring China’s dog market, its economy, and the social phenomena surrounding it.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/DogMarket/";
           },
         },{id: "nav-floating-life",
           title: "Floating Life",
-          description: "Floating Life and Floating Dirt are my third and fourth books, documenting social phenomena that have been overlooked during China’s rapid economic development.",
+          description: "Floating Life(浮生) and Floating Dirt(浮尘) are my third and fourth books, documenting social phenomena that have been overlooked during China’s rapid economic development.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/floating/";
           },
         },{id: "nav-the-old-teahouse-of-china",
           title: "The Old Teahouse of China",
-          description: "The Old Teahouse of China is my first published book. It documents traditional Chinese teahouses that are now rarely seen.",
+          description: "The Old Teahouse of China(中国老茶馆) is my first published book. It documents traditional Chinese teahouses that are now rarely seen.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teahouse/";
