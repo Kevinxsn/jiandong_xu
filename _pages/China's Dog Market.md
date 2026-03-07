@@ -69,8 +69,3 @@ This great dog photography project throws light on ourselves. Who we are, what w
 
 ---
 
-## Complete Book
-
-Use the link below to download the complete book.
-
-[Download the complete book](https://drive.google.com/file/d/1awYJPOzc3nGgN7OBpbepqNZDPEnYsPGh/view?usp=share_link)

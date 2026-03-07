@@ -30,9 +30,3 @@ The process of urbanization is like a high-speed train, constantly refreshing th
 I have worked hard to devote myself to urban construction work, eager to find my own place to stand. However, when the future I once longed for becomes hazy and uncertain, the unpredictability and uncertainty of the road ahead make me stop and try to open my eyes from the cracks.
 
 ---
-
-## Complete Book
-
-Use the link below to download the complete book.
-
-[Download the complete book](https://drive.google.com/file/d/1oLXR0bAomKCnbkjFRitzlXOvejwZPiZS/view?usp=share_link)

@@ -36,8 +36,3 @@ Some words may be slightly uncertain because of the image spacing, but this is t
 
 ---
 
-## Complete Book
-
-Use the link below to download the complete book.
-
-[Download the complete book](https://drive.google.com/file/d/1UaosxFiw8awNbPp1kTRs0FVMjXKJgy-9/view?usp=share_link)
