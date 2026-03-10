@@ -113,3 +113,7 @@ My projects mentioned above have been consolidated into five major monographs th
 - [**A Brick**](http://jiandongxu.com/A_Brick/) (2025)
 
 ---
+
+
+
+<img src="assets/img/main_page_last.png" alt="Hero image" width="800">
