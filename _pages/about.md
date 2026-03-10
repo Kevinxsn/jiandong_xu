@@ -114,6 +114,4 @@ My projects mentioned above have been consolidated into five major monographs th
 
 ---
 
-
-
 <img src="assets/img/main_page_last.png" alt="Hero image" width="800">
